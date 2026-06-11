@@ -230,6 +230,4 @@ Through this project, I learned:
 
 ## Author
 
-OM0126
-
-B.Tech Student | Learning DevOps & Cloud Computing
+OM
